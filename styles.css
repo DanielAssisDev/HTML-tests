@@ -62,7 +62,7 @@
             text-align: left;
         }
 
-        #faq {
+        #footer {
             background-color: #F2F079;
             border: 1px solid black;
             margin: 1%;
@@ -93,6 +93,6 @@
 
         }
 
-        form {
-            border: 2px solid black;
+        #form {
+            text-align: center;
         }
